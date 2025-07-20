@@ -1,0 +1,2 @@
+INDEXERROR at LINE 2: The value read, 20, is larger than the sequence length of 9.
+VALUEERROR at LINE 3: The value read,7.0, cannot be casted into an integer to be used as an index.
